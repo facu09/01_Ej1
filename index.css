@@ -1,0 +1,13 @@
+/* sacamos la etiqueta <Sytle> */
+
+h1 {
+    color: red;
+}
+
+h2{ 
+    color: green;    
+}
+
+.amarillo {
+    color: rgba(163, 141, 13, 0.897);
+}
